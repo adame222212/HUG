@@ -1,0 +1,36 @@
+* {
+  font-family: "roboto", Courier, monospace;
+}
+body {
+  background-image: url(./image/Sprinkle.svg);
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 15pt;
+}
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.concon {
+  background-color: #faf0e6;
+  height: 350px;
+  width: 300px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+h1 {
+  color: black;
+  padding-left: 20px;
+}
+img {
+  width: 250px;
+}
+
+.myimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
